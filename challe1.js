@@ -18,5 +18,8 @@ function changeCase(inputText) {
   // Testing the function
   const changer = 'The Quick Brown Fox';
   const tamper = changeCase(changer);
-  console.log(swapped); // Output: any text that i want changed 
-  
+  console.log(tamper); // Output: any text that i want changed 
+
+
+
+ 
