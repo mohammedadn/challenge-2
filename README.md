@@ -6,7 +6,7 @@
 #### By *Mohammed Adan*
 
 ## Description
-This is my week 2 code challenge where I have answered all my questions.
+This is my week 2 code challenge where I have answered all my three questions.
 ## Installation
 You create a repository from scratch and feed in the files into your vs code, after which you follow by with compeleting the assignment then pushing your work to github.
 

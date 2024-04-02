@@ -13,11 +13,11 @@ function generatenums(start, end) {
   }
   
   // Test the function  and seeing if it functions correctly
-  const attempt1 = generatenums(4, 7);
+  const atmpt1 = generatenums(4, 7);
   console.log(attempt1); 
   
-  const attempt2 = generatenums(-4, 7);
+  const atmpt2 = generatenums(-4, 7);
   console.log(attempt2); 
   
-  const attempt3 = generatenums(41, 57);
+  const atmpt3 = generatenums(41, 57);
   console.log(attempt3)
